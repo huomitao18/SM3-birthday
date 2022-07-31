@@ -4,6 +4,6 @@
 ## 运行指导(跑不起来的不算成功)
 F5运行 
 ## 代码运行全过程截图(无截图无说明的代码不给分)
-![Image](https://github.com/huomitao18/image/blob/main/QQ%E6%88%AA%E5%9B%BE20220731101043.png)
+![Image](https://github.com/huomitao18/image/raw/main/QQ%E6%88%AA%E5%9B%BE20220731101043.png)
 ## 每个人的具体贡献说明及贡献排序(复制的代码需要标出引用)
 只有本人
